@@ -13,3 +13,11 @@ main.main {
   text-align: center;
   font-family: sans-serif;
 }
+footer.footer {
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: slategrey;
+  padding: 50px;
+  font-size: 32px;
+}
